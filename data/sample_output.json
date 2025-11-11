@@ -1,0 +1,12 @@
+[
+    {
+        "pk": "3482602799815487662",
+        "media_type": 2,
+        "code": "DBUsMt4yHCu",
+        "caption": "Sample post caption",
+        "like_count": 500,
+        "comment_count": 30,
+        "user": {"username": "sampleuser"},
+        "image_versions2": {"candidates": [{"url": "https://example.com/image.jpg"}]}
+    }
+]
